@@ -21,3 +21,6 @@ ul > li:first-child {
     font-style:bold;
     font-size:120%;
 }
+[title="BCIT homepage"] {
+    background-color: yellow;
+} 
